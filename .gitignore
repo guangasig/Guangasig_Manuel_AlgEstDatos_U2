@@ -1,0 +1,6 @@
+# Archivos generados automaticamente por Python
+__pycache__/
+*.pyc
+
+# Documentos personales y material de clase
+docs/
